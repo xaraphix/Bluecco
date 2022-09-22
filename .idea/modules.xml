@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bluecco.iml" filepath="$PROJECT_DIR$/.idea/Bluecco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cafku/.idea/cafku.iml" filepath="$PROJECT_DIR$/../cafku/.idea/cafku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cridux/.idea/cridux.iml" filepath="$PROJECT_DIR$/../cridux/.idea/cridux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dawki/.idea/dawki.iml" filepath="$PROJECT_DIR$/../dawki/.idea/dawki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fincal/.idea/fincal.iml" filepath="$PROJECT_DIR$/../fincal/.idea/fincal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jambox/.idea/jambox.iml" filepath="$PROJECT_DIR$/../jambox/.idea/jambox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nftix/.idea/nftix.iml" filepath="$PROJECT_DIR$/../nftix/.idea/nftix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../suyashsingh.in/.idea/suyashsingh.in.iml" filepath="$PROJECT_DIR$/../suyashsingh.in/.idea/suyashsingh.in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xafku/.idea/xafku.iml" filepath="$PROJECT_DIR$/../xafku/.idea/xafku.iml" />
+    </modules>
+  </component>
+</project>
